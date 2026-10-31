@@ -1,6 +1,6 @@
 ## CS50's Introduction to Programming with Python
 
-<img src="python-cert.png" alt="CS50 Python Certificate" width="400">
+<img src="python-cert.png" alt="CS50 Python Certificate" width="700">
 Mastered procedural and object-oriented Python programming, file I/O operations, regular expressions, and unit testing with pytest. Applied core engineering practices to solve complex problem sets and develop an end-to-end Python project.
 
 ## CS50's Introduction to Databases with SQL
